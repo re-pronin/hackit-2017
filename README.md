@@ -2,10 +2,10 @@
 ## Materials related to the HackIT-Ukraine 2017 workshop
 - [ ] tbd "Report_template.docx"
 
-## Must Read
+### Must Read
 - https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470
 
-## Documents to take a look 
+### Documents to take a look 
 - http://www.isecom.org/mirror/OSSTMM.3.pdf
 - http://www.pentest-standard.org/index.php/Main_Page
 - http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf
@@ -14,11 +14,11 @@
 - https://www.owasp.org/images/3/33/OWASP_Application_Security_Verification_Standard_3.0.1.pdf
 - https://www.owasp.org/images/1/19/OTGv4.pdf
 
-## Cheat Sheets
+### Cheat Sheets
 - https://highon.coffee/blog/reverse-shell-cheat-sheet/
 - https://highon.coffee/blog/lfi-cheat-sheet/
 
-## The workshop depends on the following toolkits:
+### The workshop depends on the following toolkits:
 - https://www.whonix.org/wiki/Download
 - https://www.offensive-security.com/kali-linux-vmware-virtualbox-image-download/
 - https://www.parrotsec.org/download.fx
